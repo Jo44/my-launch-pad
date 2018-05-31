@@ -1,0 +1,64 @@
+{
+  "samples": [
+    {
+      "name": "Knife Party - Bonfire - 1",
+      "path": "bonfire_1",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 2",
+      "path": "bonfire_2",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 3",
+      "path": "bonfire_3",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 4",
+      "path": "bonfire_4",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 5",
+      "path": "bonfire_5",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 6",
+      "path": "bonfire_6",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 7",
+      "path": "bonfire_7",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 8",
+      "path": "bonfire_8",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 9",
+      "path": "bonfire_9",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 10",
+      "path": "bonfire_10",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 11",
+      "path": "bonfire_11",
+      "default": "true"
+    },
+    {
+      "name": "Knife Party - Bonfire - 12",
+      "path": "bonfire_12",
+      "default": "true"
+    }
+  ]
+}
